@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmatsuno2022
 - 👀 I’m interested in improving my skills and gaining more knowledge about Data Science
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on different types of projects, capstones, contests
 - 📫 How to reach me mmatsuno2022@gmail.com
 
